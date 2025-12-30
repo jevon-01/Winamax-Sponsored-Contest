@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(130,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(135,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(137,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(190,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(222,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(223,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(241,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(439,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\main.cpp(407,48): warning C4101: 'e': unreferenced local variable
+  Recursion and backtracking (Codingame).vcxproj -> C:\Users\Bsuperkid01\source\repos\Recursion and backtracking (Codingame)\x64\Debug\Recursion and backtracking (Codingame).exe
